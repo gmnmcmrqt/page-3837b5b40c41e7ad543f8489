@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "f80b69b6827a6bbb96ca7ae6",
+  "owner": "gmnmcmrqt",
+  "repo": "page-3837b5b40c41e7ad543f8489",
+  "title": "clash verge下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3837b5b40c41e7ad543f8489",
+      "a": "NaiKo",
+      "b": "clash verge下载",
+      "entity": "NaiKo",
+      "brand": "clash verge下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d893925caa39b23cf81273a15b8cbe5ce131841ff437579826f47e574221978e",
+      "content": {
+        "primary_entity": "NaiKo",
+        "keyword1": "NaiKo",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，按文档配置订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "结合设备数量与月流量需求选定版本，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松上手",
+          "AI_DESCRIPTION": "，NaiKo 提供基础版、旗舰版与团队版三档套餐，分别对应 3 台、5 台与 20 台设备在线，月流量从 100GB 到 1000GB，年付均按十个月计价。旗舰版采用 IPLC 专线并针对游戏加速优化，团队版支持企业定制路由。选择时先确认日常设备数量与流量消耗，再参考客户端配置文档导入订阅，即可在常用设备上使用。",
+          "AI_FEATURES_INTRO": "按设备、流量和周期三个维度快速对比。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备、每月 100GB；旗舰版支持 5 台、每月 300GB；团队版支持 20 台、每月 1000GB。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线并对游戏加速优化，团队版配备 VIP 专属高带宽节点，适合对延迟敏感的使用场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐年付均按十个月计价，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TITLE_2": "按线路质量选择",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_GUIDE_INTRO": "从确定套餐到完成订阅配置，只需三步。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "NaiKo 为跨区访问提供基础版、旗舰版与团队版三档套餐，覆盖 3 至 20 台设备与 100GB 至 1000GB 月流量。旗舰版搭配 IPLC 专线优化游戏延迟，团队版支持企业定制路由，可按设备数量和流量需求灵活选择。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备与流量灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付按十个月计价更划算",
+          "AI_HIGHLIGHT_3": "旗舰版 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版适合多设备与游戏场景，团队版面向多人协作与高流量需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量与月流量消耗，在基础版、旗舰版和团队版中确定合适的档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制、月流量与线路说明，确认是否满足使用场景。",
+          "AI_STEP_TEXT_3": "按对应客户端的配置文档导入订阅信息，在设备上完成连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "NaiKo 套餐与客户端配置",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版5台，团队版20台。同一账号内设备数量按套餐上限计算，超出后可升级套餐或减少同时在线设备。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版300GB，团队版1000GB。流量按自然月重置，未用完不结转，可根据使用频次选档。",
+          "AI_FAQ_ANSWER_3": "注册后获取订阅地址，在对应客户端中导入。不同平台客户端导入方式略有差异，参照客户端文档操作即可。",
+          "AI_FAQ_ANSWER_4": "各套餐按流量、设备数和线路区分。旗舰版提供IPLC专线优化，团队版提供VIP高带宽节点与定制路由，按需求选择即可。",
+          "AI_FAQ_ANSWER_5": "月付与年付均支持，年付为一次性支付。基础版年付150元，旗舰版350元，团队版850元，可在购买时选择计费周期。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "每月流量不够用怎么办？",
+          "AI_FAQ_QUESTION_3": "订阅地址如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版主要差别在哪里？",
+          "AI_FAQ_QUESTION_5": "支持月付还是年付？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b2e0edd1ef89c26e301dcb68f4e580eed1a6674c75dc8d2e6b04e6a9d79b83d6",
+    "sitemap.xml": "ee59d78eed8225ad030364fbfd91b18a55d7cf0d7d523b409aa59136d42434ba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "546e6859276ddbcc417e90b4da00157ce7dfb345e429ebf60b7acae1649fbecc"
+}
